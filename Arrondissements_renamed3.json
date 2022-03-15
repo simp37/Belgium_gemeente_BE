@@ -61224,7 +61224,7 @@
       "NAME_1": "Wallonie",
       "ID_2": 12,
       "ID_3": 42,
-      "NAME_3_NEW": "DINANT - DINANT",
+      "NAME_3_NEW": "Dinant (Arrondissement)",
       "NAME_3": "Dinant",
       "NAME_2": "Namur"
      }
@@ -61336,7 +61336,7 @@
       "NAME_1": "Wallonie",
       "ID_2": 8,
       "ID_3": 26,
-      "NAME_3_NEW": "CHARLEROI - CHARLEROI",
+      "NAME_3_NEW": "Charleroi (Arrondissement)",
       "NAME_3": "Charleroi",
       "NAME_2": "Hainaut"
      }
@@ -61408,7 +61408,7 @@
       "ID_2": 8,
       "NAME_2": "Hainaut",
       "ID_3": 30,
-      "NAME_3_NEW": "THUIN - THUIN",
+      "NAME_3_NEW": "Thuin (Arrondissement)",
       "NAME_2_NEW": "PRO-HENEGOUWEN",
       "NAME_3": "Thuin"
      }
